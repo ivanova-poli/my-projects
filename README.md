@@ -1,0 +1,1 @@
+This task involves working with a comprehensive DVD rental database to master various aspects of SQL, including Data Manipulation Language (DML) and Data Definition Language (DDL). The database simulates a DVD rental store, including tables for customers, rentals, inventory, films, and staff. 
