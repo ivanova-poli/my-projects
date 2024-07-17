@@ -1,0 +1,1 @@
+This project involves the creation and management of a Political Campaign Database designed to hone skills in Data Definition Language (DDL) and Data Manipulation Language (DML). The database serves as a comprehensive system to manage various aspects of a political campaign, including voter information, campaign events, donations, and volunteer activities.
